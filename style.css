@@ -98,7 +98,7 @@
 #box5 h1{
     color:darkblue;
     font-size: 3.5vw;
-    box-shadow: 0px 0px 10px;
+    /* box-shadow: 0px 0px 10px; */
     
 }
 #box5 p{
@@ -130,7 +130,7 @@
 #box7 h1{
     color: darkblue;
     font-size: 3.5vw;
-    box-shadow: 0px 0px 10px;
+    /* box-shadow: 0px 0px 10px; */
 }
 #box7 p{
     color: green;
@@ -160,7 +160,7 @@
 #box9 h1{
     color:darkblue;
     font-size: 3.5vw;
-    box-shadow: 0px 0px 10px;
+    /* box-shadow: 0px 0px 10px; */
     
 }
 #box9 p{
